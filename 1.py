@@ -18,7 +18,8 @@ markup_inline_url2.add(btn_in_url2)
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
  print(message)
- bot.send_message(message.chat.id, "QQ                                                             "
+ bot.send_message(message.chat.id, "QQ)"
+                                   "                                                             "
                                    "\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796                                                "
                                    "Обменdsfgdsgsdfgel.                                                          "
                                    "\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796\U00002796                                                "
